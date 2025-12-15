@@ -1,4 +1,4 @@
-# 🖥️ MiniOS - Custom Operating System with VMware
+#  MiniOS - Custom Operating System with VMware
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Features](#-features)
@@ -32,7 +32,7 @@
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 **MiniOS** is a custom-built operating system developed from scratch that runs independently on VMware. This educational OS project demonstrates core operating system concepts including process scheduling, virtual memory management, and hardware interaction without relying on any existing OS framework.
 
@@ -361,7 +361,7 @@ minios/
 <table>
 <tr>
 <td align="center">
-<img src="https://via.placeholder.com/100" width="100px;" alt="Saad Khan"/><br />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLKWbIQ0sY6LixPpJPq83brZILMNdjp3r9CqpVNwp6Gni_aKdQJS2QchQhEUBBEop7k8N0u1wAf3xMFoR8Wgyn1BXubYRaig-2wN6ccI3g5Q&s=10" width="100px;" alt="Saad Khan"/><br />
 <sub><b>Saad Khan</b></sub><br />
 <i>Team Leader</i><br />
 <sub>Kernel • Scheduler • Shell</sub>
